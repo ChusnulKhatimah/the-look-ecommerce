@@ -1,0 +1,2 @@
+# the-look-ecommerce
+This work is one of the project I worked on at Ruangguru CAMP. The dataset provided by https://cloud.google.com/looker? that contains information about user, products, logistic, events, etc. It is submitted as my final project. The Look E-Commerce Dataset: https://github.com/GoogleCloudPlatform/public-datasets-pipelines/blob/main/datasets/thelook_ecommerce/pipelines/_images/run_thelook_kub/fake.py
